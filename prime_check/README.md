@@ -1,3 +1,5 @@
+# Check for Primes
+
 ## Language: C
 
 ### Prompt
